@@ -19,4 +19,4 @@ jobs:
         node-version: '10.x'
     - run: ls -l
     - run: npm install
-    - run: node deploy
+    - run: node test
