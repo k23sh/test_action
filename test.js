@@ -4,7 +4,7 @@ function test(){
     fs.readFileSync(process.env.GITHUB_EVENT_PATH, 'utf8')
   )
   const prNum = ev.pull_request.number;
-  const branche = ev.head.ref;
+  const branche = ev.pull_request.head.ref;
   
   console.log('prNum', prNum);
   console.log('branche', branche);
