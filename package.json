@@ -1,0 +1,22 @@
+{
+  "name": "node_devicefarm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k23sh/node_devicefarm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k23sh/node_devicefarm/issues"
+  },
+  "homepage": "https://github.com/k23sh/node_devicefarm#readme",
+  "dependencies": {
+    
+  }
+}
